@@ -1,2 +1,11 @@
-Définition:
-L’antenne patch est une antenne plane dont l'élément rayonnant est une surface conductrice généralement carrée, séparée d'un plan réflecteur conducteur par une lame diélectrique. Sa réalisation ressemble à un circuit imprimé double face et est donc favorable à une production industrielle. Le concept d'antenne patch est apparu dans les années 1950, mais le véritable développement ne s'est fait que dans les années 1970. Elle peut être utilisée seule ou comme élément d'un réseau. De même, elle peut être intégrée au plus près des circuits électroniques en occupant un volume réduit et se conformant à différents types de surface. 
+1.Définition:
+L’antenne patch est une antenne plane dont l'élément rayonnant est une surface conductrice généralement carrée, séparée d'un plan réflecteur conducteur par une lame diélectrique.
+ Sa réalisation ressemble à un circuit imprimé double face et est donc favorable à une production industrielle. 
+Le concept d'antenne patch est apparu dans les années 1950, mais le véritable développement ne s'est fait que dans les années 1970.
+ Elle peut être utilisée seule ou comme élément d'un réseau. De même, elle peut être intégrée au plus près des circuits électroniques en occupant un volume réduit et se conformant à différents types de surface.
+2.Caractérisation d’une antenne
+
+ *Le diagramme  de  rayonnement d’une  antenne  permet  de  visualiser  ces  lobes  dans  les  trois dimensions, dans le plan horizontal ou dans le plan vertical incluant le lobe le plus important.
+Le diagramme de rayonnement de l’antenne permet donc d’apprécier la directivité de l’antenne. 
+ *L’angle d’ouverture d’une antenne caractérise la portion de l’espace (l’angle de direction) dans laquelle la puissance rayonnée est la moitié (-3dB) de la puissance rayonnée dans la direction de rayonnement maximal. Il est donc représentatif de la directivité de l’antenne. Plus cet angle est étroit plus l’antenne est directive.
+ *Le gain  d’une  antenne correspond au gain dans la direction de rayonnement maximal. Cette propriété caractérise la capacité d’une antenne à  focaliser la puissance rayonnée dans une direction. Le gain d’une antenne s’exprime en dBi, en prenant pour référence une antenne isotrope, qui rayonne uniformément dans toutes les directions.
