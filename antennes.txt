@@ -8,4 +8,10 @@ Le concept d'antenne patch est apparu dans les années 1950, mais le véritable 
  *Le diagramme  de  rayonnement d’une  antenne  permet  de  visualiser  ces  lobes  dans  les  trois dimensions, dans le plan horizontal ou dans le plan vertical incluant le lobe le plus important.
 Le diagramme de rayonnement de l’antenne permet donc d’apprécier la directivité de l’antenne. 
  *L’angle d’ouverture d’une antenne caractérise la portion de l’espace (l’angle de direction) dans laquelle la puissance rayonnée est la moitié (-3dB) de la puissance rayonnée dans la direction de rayonnement maximal. Il est donc représentatif de la directivité de l’antenne. Plus cet angle est étroit plus l’antenne est directive.
- *Le gain  d’une  antenne correspond au gain dans la direction de rayonnement maximal. Cette propriété caractérise la capacité d’une antenne à  focaliser la puissance rayonnée dans une direction. Le gain d’une antenne s’exprime en dBi, en prenant pour référence une antenne isotrope, qui rayonne uniformément dans toutes les directions.
+ *Le gain  d’une  antenne correspond au gain dans la direction de rayonnement maximal. Cette propriété caractérise la capacité d’une antenne à  focaliser la puissance rayonnée dans une direction.
+    Le gain d’une antenne s’exprime en dBi, en prenant pour référence une antenne isotrope, qui rayonne uniformément dans toutes les directions.
+3. Utilisations:
+  Les antennes planaires sont utilisées lorsqu'on veut réduire l'encombrement d'une antenne, notamment sa hauteur au-dessus d'un plan de masse, 
+  par exemple sur les émetteurs-récepteurs portables de radiocommunications, sur les récepteurs GPS... 
+Les antennes planaires en réseau sont employées en Wi-Fi, en radioamateurisme et dans de nombreuses transmissions professionnelles. 
+L'antenne patch en réseau actif est une des technologies permettant la réalisation des antennes radar à faisceau contrôlé, en navigation aérienne, surveillance ou observation de la Terre par satellite
